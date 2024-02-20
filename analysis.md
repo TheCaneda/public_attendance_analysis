@@ -28,6 +28,9 @@ O Teste U de Mann-Whitney foi escolhido para esta análise devido à natureza n�
 
 O Teste U de Mann-Whitney compara os valores medianos entre dois grupos independentes, neste cenário, as cifras de público para Internacional e Grêmio. Este teste é particularmente útil para avaliar se há uma diferença significativa na tendência central de dois conjuntos de dados sem fazer suposições sobre a distribuição dos dados. Considerando a robustez do Teste U de Mann-Whitney contra distribuições de dados não normais e sua aplicabilidade a amostras independentes, ele surgiu como a escolha mais apropriada para comparar as cifras de público dos dois times de futebol. Esta escolha metodológica garante a confiabilidade dos resultados da análise, mesmo na ausência de distribuição normal, fornecendo assim uma base estatística sólida para as conclusões do estudo.
 
+## Hipóteses
+$H_0$: não há diferença significativa, $H_a$: há diferença significativa;
+
 ## Resultados
 
 Os histogramas revelaram as distribuições de público para ambas as equipes, sem diferenças significativas aparentes. O Teste U de Mann-Whitney resultou em uma estatística U de 165,5 e um valor-p de aproximadamente 0,261. Este valor-p está acima do limiar convencional de 0,05, indicando nenhuma diferença significativa nas cifras medianas de público entre os jogos em casa das duas equipes nos anos considerados.
